@@ -1,6 +1,6 @@
 import time
 
-import self
+
 from hamcrest import *
 from behave import *
 from selenium.webdriver.common.by import By
